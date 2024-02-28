@@ -39,12 +39,12 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-```
+
 ![Screenshot 2024-02-28 193526](https://github.com/MohammedParvez129/2a_Stop_and_Wait_Protocol/assets/143175737/07ec6e5f-ef18-4e95-9dcc-b4e0bed9b260)
 
 
 ![Screenshot 2024-02-28 193534](https://github.com/MohammedParvez129/2a_Stop_and_Wait_Protocol/assets/143175737/2f45542b-52a5-4d89-8a2b-dd81e5d175da)
-```
+
 
 
 ## RESULT
